@@ -33,8 +33,6 @@
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 
 ### **Web3 & Blockchain**
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
@@ -42,11 +40,6 @@
 ![Foundry](https://img.shields.io/badge/Foundry-00AA88?style=for-the-badge&logoColor=white)
 ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
 ![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
-
-### **Quantitative & Trading**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ### **DevOps & Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -67,26 +60,11 @@
 
 ---
 
-## 🎯 Where I'm Headed
-
-| Timeline | Goal |
-|----------|------|
-| **Now (2025)** | Secure summer internship at leading fintech/Web3 companies |
-| **Mid-2025** | Ship 2-3 production Web3 dApps; Complete news-driven trading bot MVP |
-| **2026** | Freelance as full-stack Web3 developer; Build fintech-focused agency |
-| **2028+** | Quant PM or Head of Algorithmic Trading at tier-1 hedge fund |
-
----
-
 ## 🌟 Featured Work
 
 ### [Supply-Chain Web3 dApp](https://github.com/suvrat007/supply-chain-dapp)
 Real-time supply chain tracking on blockchain with NFT verification and IPFS storage.  
 **Stack**: React | Solidity | Hardhat | Node.js | MongoDB
-
-### [News-Driven Trading Bot](https://github.com/suvrat007/trading-bot)
-Backtesting engine that correlates market movements with news sentiment in real-time.  
-**Stack**: Python | Pandas | React | WebSocket | News APIs
 
 ### [Tutora CRM](https://tutora.vercel.app)
 Complete tuition management system with real-time attendance & automated billing.  
