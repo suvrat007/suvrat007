@@ -1,5 +1,3 @@
-![Suvrat's Banner](https://user-gen-media-assets.s3.amazonaws.com/seedream_images/00018d70-7e4a-438d-991d-7f35e7788666.png)
-
 # 💫 Hey, I'm Suvrat Mittal 
 
 **Full-Stack Web3 Engineer | Quantitative Finance Builder | CS Undergrad (5th Sem)**
@@ -64,7 +62,7 @@
 
 ### [Supply-Chain Web3 dApp](https://github.com/suvrat007/supply-chain-dapp)
 Real-time supply chain tracking on blockchain with NFT verification and IPFS storage.  
-**Stack**: React | Solidity | Hardhat | Node.js | MongoDB
+**Stack**: React | Solidity | Foundry | Anvil | Node.js | MongoDB
 
 ### [Tutora CRM](https://tutora.vercel.app)
 Complete tuition management system with real-time attendance & automated billing.  
@@ -85,7 +83,7 @@ Complete tuition management system with real-time attendance & automated billing
 ## 💬 Let's Connect
 
 🤝 **Open to**: Internships | Collaborations | Mentorship | Co-founder opportunities  
-💼 **Looking for**: Web3/Fintech roles | Trading bot partnerships | Smart contract audits
+💼 **Looking for**: Full Stack Dev Roles | Web3/Fintech roles | Trading bot partnerships | Smart contract audits
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:suvratmittal007@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/suvrat-mittal)
