@@ -12,7 +12,6 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| **News-Driven Trading Bot** | Backtesting engine correlating market signals with real-time news (6-8 month build) | Python, Pandas, Backtrader, React |
 | **Supply-Chain Web3 dApp** | Full-stack Web3 application with NFTs, IPFS, and on-chain verification | React, Solidity, Hardhat, Node.js |
 | **Tutora** | Tuition management CRM for attendance & fee tracking | MERN, Tailwind, JWT |
 | **Ru-Ok** | Emotion-tracking wellness app (300+ emotion categories) | React, Firebase, Material-UI |
